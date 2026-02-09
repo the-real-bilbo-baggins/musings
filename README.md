@@ -4,7 +4,7 @@
 
 Welcome, dear traveller.
 
-This repository is my quiet corner of the Shire set down in ink: **daily musings about my journeys in Middle‑earth** — including recollections from my book *The Hobbit*, scraps from the road, and the occasional observation best shared by a warm hearth.
+This repository is my quiet corner of the Shire set down in ink: **daily musings about my journeys in Middle Earth** — including recollections from my book *The Hobbit*, scraps from the road, and the occasional observation best shared by a warm hearth.
 
 ---
 
