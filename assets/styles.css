@@ -52,6 +52,22 @@ a:hover{ text-decoration:underline; }
   margin:0;
 }
 
+/* Mobile-first: images should be fluid, never overflow, and avoid towering above the text. */
+.figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  max-height:52vh;
+  object-fit:cover;
+  border-radius:14px;
+}
+
+@media (min-width: 860px){
+  .figure img{
+    max-height:560px;
+  }
+}
+
 .figcap{
   padding-top:8px;
   color:var(--muted);
